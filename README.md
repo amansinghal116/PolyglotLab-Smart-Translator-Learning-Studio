@@ -1,6 +1,6 @@
 # 🌈 PolyglotLab – Smart Translator & Learning Studio
 
-**Live Demo (Hugging Face Space):** https://huggingface.co/spaces/<your-username>/PolyglotLab-Translator  
+**Live Demo (Hugging Face Space):** https://huggingface.co/spaces/singhalamaan116/PolyglotLab-Translator
 **Tech:** Gradio · Hugging Face Transformers · MarianMT · Flan-T5
 
 PolyglotLab is a feature-rich, intelligent translation playground designed to help users translate, learn, and explore languages in a more interactive way than traditional tools.
